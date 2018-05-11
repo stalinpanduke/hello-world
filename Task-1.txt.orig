@@ -1,0 +1,13 @@
+The breif information of Task-1 is not required. Make it simple. 
+
+The SV projects are maintained in this folder. 
+
+Test contetn for push over the git.
+<<<<<<< HEAD
+
+commit conflicts.
+Pull before commit.
+Text added from local repo.
+=======
+Over ride commit conflicts.
+>>>>>>> 4657b47e57fa201bf6a19c27ec42064c9fe9e5f5
