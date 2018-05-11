@@ -5,3 +5,4 @@ The SV projects are maintained in this folder.
 Test contetn for push over the git.
 
 commit conflicts.
+Pull before commit.
