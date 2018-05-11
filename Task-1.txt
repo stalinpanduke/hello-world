@@ -6,3 +6,4 @@ Test contetn for push over the git.
 
 commit conflicts.
 Pull before commit.
+Text added from local repo.
