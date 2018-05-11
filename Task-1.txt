@@ -4,4 +4,4 @@ The SV projects are maintained in this folder.
 
 Test contetn for push over the git.
 Over ride commit conflicts.
-Text added from local repo.
+Pull before push.
